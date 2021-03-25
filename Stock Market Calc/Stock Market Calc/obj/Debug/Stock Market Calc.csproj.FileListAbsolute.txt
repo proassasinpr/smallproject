@@ -1,0 +1,10 @@
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\bin\Debug\Stock Market Calc.exe.config
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\bin\Debug\Stock Market Calc.exe
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\bin\Debug\Stock Market Calc.pdb
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\obj\Debug\Stock Market Calc.csprojAssemblyReference.cache
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\obj\Debug\Stock_Market_Calc.Form1.resources
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\obj\Debug\Stock_Market_Calc.Properties.Resources.resources
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\obj\Debug\Stock Market Calc.csproj.GenerateResource.cache
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\obj\Debug\Stock Market Calc.csproj.CoreCompileInputs.cache
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\obj\Debug\Stock Market Calc.exe
+C:\Users\proas\Desktop\Stock Market Calc\Stock Market Calc\obj\Debug\Stock Market Calc.pdb
