@@ -1,1 +1,1 @@
-# smallproject
+# smallproject    I started this project , I already have one but I would like to do all the math inside the Results textbox. This Will include: Quantity * Entry , Multiply Max Price ST * Quantity - Entry Cost, what wil be your loss if the stop loss is activated and what percent of loss, also you can calculate what will be your price target profit - entry cost. Then after the tool do all the calculations you will be able to copy all the information to you clipboard so you can paste it on a group or send it to a friend. 
